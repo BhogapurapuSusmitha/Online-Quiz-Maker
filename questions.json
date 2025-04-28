@@ -1,0 +1,23 @@
+[
+    {
+      "question": "What does HTML stand for?",
+      "options": ["Hyperlinks and Text Markup Language", "Home Tool Markup Language", "Hyper Text Markup Language", "Hyper Tool Markup Language"],
+      "answer": 2
+    },
+    {
+      "question": "Which language is used for styling web pages?",
+      "options": ["HTML", "JQuery", "CSS", "XML"],
+      "answer": 2
+    },
+    {
+      "question": "Which is not a JavaScript Framework?",
+      "options": ["Python Script", "JQuery", "Django", "NodeJS"],
+      "answer": 2
+    },
+    {
+      "question": "Which is used for Connect To Database?",
+      "options": ["PHP", "HTML", "JS", "All"],
+      "answer": 0
+    }
+  ]
+  
